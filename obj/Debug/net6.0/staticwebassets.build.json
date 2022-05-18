@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lc2BBRGaTHBbMgrgrbZO9kcVulK4dVFMcp0bEbHOKBQ=",
+  "Source": "news_portal",
+  "BasePath": "_content/news_portal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
